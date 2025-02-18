@@ -9710,6 +9710,24 @@
             "languages": [
                 "python"
             ]
+        },
+	       {
+            "short_description": "An Open-Source Personal “Node” Based Memory Document System written in Swift for MacOS!”,
+            "categories": [
+                “Productivity”,
+                “Database”
+            ],
+            "repo_url": "https://github.com/caraveo/memory",
+            "title": “Memory”,
+            "icon_url": "https://github.com/Caraveo/Memory/blob/main/icon_1024.png",
+            "screenshots": [
+               "https://github.com/Caraveo/Memory/blob/main/screenshot.png"
+            ],
+            "official_site": "https://github.com/caraveo/memory",
+            "languages": [
+                “Swift”,
+		"SwiftUI
+            ]
         }
     ]
 }
